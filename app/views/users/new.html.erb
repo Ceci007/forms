@@ -35,7 +35,6 @@
     <%= f.password_field :password %><br/>
     <%= f.submit "submit" %>
 <% end %>
--->
 
 <%= form_with(model: @user, local: true) do |f| %>
   <div class="form-group">
@@ -55,3 +54,7 @@
     <%= f.submit(@user.new_record? ? "Sign up" : "Update account", class: "btn btn-primary") %>
   </div>
 <% end %>
+-->
+<div class="container" >
+  <%= render 'form' %>
+</div>
