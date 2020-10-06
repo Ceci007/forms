@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  resources :users, only: %i[new create]
+  get 'signup', to: 'users#new'
+  resources :users, except: [:new]
 end
