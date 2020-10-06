@@ -3,6 +3,7 @@
 #  🧐 FORMS
 
 This is the third collaborative project from the Ruby on Rails module from the Microverse program. It consists on making a page with users who can register (without sessions and no authentication), with a basic user model, user controller and also some views like the list of users, the register form, the edit form and the single profile view.
+![app screenshot](./app_screenshot.png)
 
 ## 🔧 Built With
 - Ruby. v2.6.6
