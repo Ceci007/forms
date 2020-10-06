@@ -19,7 +19,7 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
 
     if @user.save
-      flash[:notice] = "Welcome to Blogger-Ceci-App #{@user.username}, you have successfully signed up."
+      flash[:notice] = "Welcome to FORMS #{@user.username}, you have successfully signed up."
       redirect_to @user
     else
       render 'new'
