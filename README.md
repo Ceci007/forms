@@ -12,7 +12,7 @@ This is the third collaborative project from the Ruby on Rails module from the M
 - Bootstrap
 
 ## 🔴 Live Demo
-[Video Demo Link](https://drive.google.com/file/d/1gHwYN5WC-RxOI3c6E6308anpl6BHLs3j/view?usp=sharing)
+[Video Demo Link](https://drive.google.com/file/d/1I1Ga5NLKy_4UIkxOU9Evofn70QlL06j4/view?usp=sharing)
 
 ## 🛠 Getting Started
 ## Install 
